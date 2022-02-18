@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Patrick Collins! </h2>
+<h2> Hi there 👋, I'm Afenikhena Favour! </h2>
     
 [![Afenikhena Favour Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codertjay/)
 [![Afenikhena Favour Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Codertjay)
