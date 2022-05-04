@@ -7,7 +7,7 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 
-I'm here to help the world learn to code, do great things with data prowess, python lover, dance enthusiast, and life enthusiast.
+I'm here to help the world learn to code, do great things with code , python lover,backend developer, music enthusiast, game enthusiast, and life enthusiast.
 
 #### Github Stats 📊
 
