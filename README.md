@@ -12,4 +12,4 @@ I'm here to help the world learn to code, do great things with code , python lov
 #### Github Stats 📊
 
 [![Codertjay's github stats](https://github-readme-stats.vercel.app/api?username=codertjay)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codertjay&layout=compact)
