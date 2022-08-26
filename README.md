@@ -7,6 +7,10 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codertjay&label=Profile%20views&color=0e75b6&style=flat" alt="codertjay" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codertjay" alt="codertjay" /></a> </p>
+
 I'm here to help the world learn to code, do great things with code , python developer,golang developer, flutter developer,Blockchain developer,backend developer, music enthusiast, game enthusiast, and life enthusiast.
 
 #### Github Stats 📊
