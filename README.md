@@ -31,4 +31,4 @@ I'm here to help the world learn to code, do great things with code , python dev
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codertjay&" alt="codertjay" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codertjay&show_icons=true&locale=en&layout=compact" alt="codertjay" /></p>
+
