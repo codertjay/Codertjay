@@ -5,7 +5,6 @@
 [![Afenikhena Favour StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13778890/favour-afenikhena)
 
 <h3 align="left">Connect with me:</h3>
-# Hi, I'm Favour Afenikhena 👋
 
 Experienced Software Architect and Backend Developer | Blockchain Enthusiast | Lagos, Nigeria
 
