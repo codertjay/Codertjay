@@ -12,42 +12,6 @@ Experienced Software Architect and Backend Developer | Blockchain Enthusiast | L
 
 I'm Favour Afenikhena, a passionate software developer with a focus on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, and JavaScript and have a track record of delivering production-ready software for various industries, including Fintech and SaaS.
 
-## 💼 Experience
-
-- **Muse Inc, Lagos Nigeria — Backend Developer**
-  - 📅 August 2020 - 2021
-  - 🚀 Key Achievements:
-    - Implemented a Comic API enabling comic authors to monetize their work using Blockchain technology.
-    - Designed subscription packages for an enhanced user experience.
-    - Contributed to various other platform improvements.
-
-- **TeemsApp, Lagos Nigeria — Backend Developer**
-  - 📅 November 2021 - July 2022
-  - 🚀 Key Achievements:
-    - Developed dynamic banking APIs, including virtual card creation and interbank transactions.
-    - Designed features for savings accounts and bill payments.
-    - Worked on wallet-to-wallet transactions and more.
-
-- **Instinct Hub, Lagos Nigeria — Backend Developer**
-  - 📅 September 2022 - March 2023
-  - 🚀 Key Achievements:
-    - Created an Upwork-inspired platform for fashion designers.
-    - Developed a versatile Customer Relationship Management (CRM) system.
-    - Contributed to an estate management system and edtech platform enhancements.
-
-- **Soft Finance, Lagos Nigeria — Backend Developer**
-  - 📅 June 2023 - Present
-  - 🚀 [Your ongoing achievements and contributions here...]
-
-## 🎓 Education
-
-- **Yaba Tech, Lagos Nigeria — ND**
-  - 📅 January 2019 - MONTH 2021
-  - 🎓 Studied Computer Science
-
-- **National Open University, Lagos Nigeria — BSC**
-  - 📅 July 2020 - November 2024
-  - 🎓 Studying Computer Science (Open distance learning)
 
 ## 🔧 Skills
 
