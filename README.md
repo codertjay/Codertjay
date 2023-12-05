@@ -1,1 +1,1 @@
-I'm Codertjay, a passionate software developer with a focus on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, and JavaScript and have a track record of delivering production-ready software for various industries, including Fintech and SaaS.
+
