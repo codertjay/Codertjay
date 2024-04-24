@@ -14,8 +14,8 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 ## 🔧 Skills
 
 - *Languages:* Golang, Python, JavaScript, Rust
-- *Frameworks:* Django, Gin, Fiber, Foundry
-- *Blockchain:* Solidity, Brownie
+- *Backend Framework:* Django, Gin, Fiber, Foundry, Flask
+- *Blockchain:* Solidity, Brownie, Foundry
 - *Databases:* MySQL, Redis, PostgreSQL, RabbitMql, Sql
 - *Learning: Currently learning rust for blockchain development and opcodes for smart contract auditing 
 
@@ -24,4 +24,4 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 - English (Fluent)
 
 ---
-(https://GitHub.com/codertjay). I'm always eager to collaborate on exciting projects and explore new opportunities. Let's code the future together! 💻🚀
+(https://GitHub.com/codertjay). 
