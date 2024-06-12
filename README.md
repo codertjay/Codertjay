@@ -22,6 +22,3 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 ## 📚 Languages
 
 - English (Fluent)
-
----
-(https://GitHub.com/codertjay). 
