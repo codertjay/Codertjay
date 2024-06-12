@@ -9,7 +9,7 @@ Experienced Backend Developer | Blockchain Enthusiast | Lagos, Nigeria
 
 📞  ✉️ *Email:* dev.codertjay@gmail.com | 🌐 *GitHub:* [codertjay](https://GitHub.com/codertjay)
 
-I'm Codertjay, a passionate backend developer and blockchain developer focusing on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python,rust and JavaScript.
+I'm Codertjay, a passionate backend developer and blockchain developer focusing on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, solidity, rust and JavaScript.
 
 ## 🔧 Skills
 
