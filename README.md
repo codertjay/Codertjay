@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-Experienced Backend Developer | Blockchain Enthusiast | Lagos, Nigeria
+Experienced Backend Developer | Blockchain Developer | Lagos, Nigeria
 
 📞  ✉️ *Email:* dev.codertjay@gmail.com | 🌐 *GitHub:* [codertjay](https://GitHub.com/codertjay)
 
