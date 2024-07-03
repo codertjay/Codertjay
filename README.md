@@ -35,6 +35,7 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 ![](https://img.shields.io/badge/Backend-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Blockchain-Brownie-informational?style=flat&logo=brownie&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Blockchain-Foundry-informational?style=flat&logo=brownie&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
