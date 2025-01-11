@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Favour Afenikhena! </h1>
+<h1> Hi there 👋, I'm Favour ThankGod! </h1>
 
 [![Afenikhena Favour StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13778890/favour-afenikhena)
 
