@@ -1,6 +1,4 @@
-💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
-
-<h1> Hi there 👋, I'm Favour Afenikhena! </h2>
+<h1> Hi there 👋, I'm Favour Afenikhena! </h1>
 
 [![Afenikhena Favour StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13778890/favour-afenikhena)
 
@@ -8,7 +6,7 @@
 
 Experienced Backend Developer | Blockchain Developer | Lagos, Nigeria
 
-I'm Codertjay, a passionate backend developer and blockchain developer focusing on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, solidity, rust and JavaScript.
+I'm Codertjay, a passionate backend and blockchain developer focusing on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
 
 ## 🔧 Skills
 
@@ -18,6 +16,17 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 - 🗄️ *Databases:* MySQL 🐬, Redis 🚀, PostgreSQL 🐘, RabbitMQ 🐇, SQL 💾
 - 📚 *Learning:* Currently learning Rust 🦀 for blockchain development and smart contract auditing
 
+## 🔐 Backend & Web3 Security Focus
+
+I have a strong interest in Web3 and blockchain security. I actively research and implement security measures using tools like Medusa and Echidna. I focus on securing EVM and Solana-based systems, ensuring robust and secure backend architectures.
+
+### Security Tools & Practices
+
+- **Medusa:** Leveraging Medusa for advanced smart contract analysis and vulnerability detection.
+- **Echidna:** Utilizing Echidna for fuzz testing Ethereum smart contracts.
+- **Static Analysis:** Performing static code analysis to identify potential security vulnerabilities.
+- **Penetration Testing:** Conducting penetration tests to evaluate the security of backend systems and blockchain applications.
+- **Security Audits:** Performing comprehensive security audits to ensure code integrity and security.
 
 ## 📚 Languages
 
@@ -25,7 +34,6 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{codertjay}/count.svg)
-
 
 ## 🔧Technologies and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
@@ -50,23 +58,14 @@ I'm Codertjay, a passionate backend developer and blockchain developer focusing 
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-
-
 ## 🤝 Let's connect
 
 <p align="center">
   <a href="https://twitter.com/codertjay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/codertjay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
-  </a>
   <a href="mailto:dev.codertjay@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
-
   <a href="https://www.instagram.com/codertjay/">
-  <img  alt="Instagram" width="22px" style="background:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+    <img alt="Instagram" width="22px" style="background:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </p>
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codertjay&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
-
-
 
