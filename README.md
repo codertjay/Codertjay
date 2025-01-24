@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-Experienced Backend Developer | Blockchain Developer | Lagos, Nigeria
+Experienced Backend Developer | Blockchain Developer 
 
 I'm Codertjay, a passionate backend and blockchain developer focusing on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
 
