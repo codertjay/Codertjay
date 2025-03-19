@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Favour ThankGod! </h1>
+<h1> Hi there 👋, I'm Codertjay! </h1>
 
 [![Afenikhena Favour StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13778890/favour-afenikhena)
 
@@ -62,10 +62,5 @@ I have a strong interest in Web3 and blockchain security. I actively research an
 
 <p align="center">
   <a href="https://twitter.com/codertjay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/codertjay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
-  <a href="mailto:dev.codertjay@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
-  <a href="https://www.instagram.com/codertjay/">
-    <img alt="Instagram" width="22px" style="background:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
 </p>
 
