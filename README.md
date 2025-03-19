@@ -58,9 +58,5 @@ I have a strong interest in Web3 and blockchain security. I actively research an
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-## 🤝 Let's connect
 
-<p align="center">
-  <a href="https://twitter.com/codertjay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-</p>
 
