@@ -6,27 +6,15 @@
 
 Experienced Backend Developer | Blockchain Developer | Web3 Security Researcher 
 
-I'm Codertjay, a passionate backend and blockchain developer focusing on building robust backend systems and architecting innovative solutions. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
+I'm Codertjay, a passionate backend and Web3 Security Researcher. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
 
 ## 🔧 Skills
 
 - 🌱 *Languages:* Golang 🐹, Python 🐍, JavaScript 🌐, Rust 🦀, Solidity 🔐
 - 💻 *Backend Frameworks:* Django 🌐, Gin 🍸, Fiber 🔧, Foundry 🏗️, Flask 🌶️, GraphQL 📊
-- 🔗 *Blockchain:* Solidity 🔐, Brownie 🍫, Foundry 🏗️
+- 🔗 *Blockchain:* Solidity 🔐, Brownie 🍫, Foundry 🏗️, Cosmos, Coswasm
 - 🗄️ *Databases:* MySQL 🐬, Redis 🚀, PostgreSQL 🐘, RabbitMQ 🐇, SQL 💾
 - 📚 *Learning:* Currently learning Rust 🦀 for blockchain development and smart contract auditing
-
-## 🔐 Backend & Web3 Security Focus
-
-I have a strong interest in Web3 and blockchain security. I actively research and implement security measures using tools like Medusa and Echidna. I focus on securing EVM and Solana-based systems, ensuring robust and secure backend architectures.
-
-### Security Tools & Practices
-
-- **Medusa:** Leveraging Medusa for advanced smart contract analysis and vulnerability detection.
-- **Echidna:** Utilizing Echidna for fuzz testing Ethereum smart contracts.
-- **Static Analysis:** Performing static code analysis to identify potential security vulnerabilities.
-- **Penetration Testing:** Conducting penetration tests to evaluate the security of backend systems and blockchain applications.
-- **Security Audits:** Performing comprehensive security audits to ensure code integrity and security.
 
 ## 📚 Languages
 
