@@ -48,3 +48,9 @@ I'm Codertjay, a passionate backend and Web3 Security Researcher. I specialize i
 
 
 
+<p align="center">
+<a href="https://github.com/zyppyvids">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codertjay&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codertjay&layout=compact&langs_count=8&theme=merko"/>
+</a>
+</p>
