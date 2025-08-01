@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-Experienced Backend Developer | Blockchain Developer | Web3 Security Researcher 
+Experienced  Web3 Security Researcher 
 
-I'm Codertjay, a passionate backend and Web3 Security Researcher. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
+I'm Codertjay, a passionate Web3 Security Researcher. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
 
 ## 🔧 Skills
 
