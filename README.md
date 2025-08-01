@@ -20,8 +20,7 @@ I'm Codertjay, a passionate Web3 Security Researcher. I specialize in Golang, Py
 
 - English (Fluent)
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{codertjay}/count.svg)
+
 
 ## 🔧Technologies and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
