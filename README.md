@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-Experienced  Web3 Security Researcher 
+Experienced Backend and Web3 Security Researcher 
 
 I'm Codertjay, a passionate Web3 Security Researcher. I specialize in Golang, Python, Solidity, Rust, and JavaScript.
 
